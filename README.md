@@ -9,7 +9,7 @@
 
 ## 🪪 Certification
 
--
+- [RHCSA](https://github.com/LeverUp-Dev/LeverUp-Dev/blob/main/Red_Hat_Certified_System_Administrator__RHCSA__Badge20241101-28-dvctms.pdf)
 
 ## 📋 My Blog
 
